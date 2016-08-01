@@ -14,3 +14,5 @@ import {} from '../css/app.scss';
 var img = document.createElement('img');
 img.src = require('../images/stranger-things.jpg');
 document.getElementById('img-container').appendChild(img);
+
+$('#testDiv').text('jquery was here');
