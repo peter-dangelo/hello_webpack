@@ -1,0 +1,19 @@
+body {
+    color: green;
+}
+
+h1 {
+    padding: 15px;
+
+    border: {
+        color: red;
+        style: solid;
+        width: 1px;
+    }
+}
+
+.bg_header_img {
+    background: url('../images/stranger-things.jpg');
+    height: 150px;
+    width: 150px;
+}
